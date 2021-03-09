@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Craig. I'm a recent graduate of Flatiron School's software engineering program, specializing in fullstack web development in Rails and JavaScript. i currently work for the Pittsburgh Cultural Trust as a Full-Stack Ruby on Rails Developer.
+My name is Craig. I'm a recent graduate of Flatiron School's software engineering program, specializing in fullstack web development in Rails and JavaScript. I currently work for the Pittsburgh Cultural Trust as a Full-Stack Ruby on Rails Developer.
 
 My personal stack includes Ruby💎, Ruby on Rails🚆, JavaScript, React⚛, Redux, Sagas, NodeJs, PostgreSQL🐘, MongoDB🍃 and more.
 
