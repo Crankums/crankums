@@ -10,7 +10,7 @@ My personal stack includes Ruby💎, Ruby on Rails🚆, JavaScript, React⚛, Re
 - 🌱 I’m currently learning ...
   - 💎 the Crystal language, as it's syntactically similar to Ruby, but uses typing. 1.0.0 was released March of this year and I'm interested to see how it grows.
   - ⚙ Rust, which has a focus on speed and safety, which I believe don't need to be mutually exclusive concepts.
-  - Always working on the basics of web development. For instanct, work has our app views built in `.haml`, which is new to me as we used `.erb` in coding school.
+  - Always working on the basics of web development. For instance, work has our app views built in `.haml`, which is new to me as we used `.erb` in coding school.
   
   
 - 📫 How to reach me:
