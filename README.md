@@ -5,7 +5,7 @@ My name is Craig. I currently work for the Pittsburgh Cultural Trust as a Full-S
 My personal stack includes Ruby💎, Ruby on Rails🚆, JavaScript, React⚛, Redux, Sagas, NodeJs, PostgreSQL🐘, MongoDB🍃 and more.
 
 - 🔭 I’m currently working on ...
-  - Mostly projects for my job at the Pittsburgh Cultural Trust. I do a lot of work in e-commerce, but I'm trying to get a handle on infrastructure and ema
+  - Mostly projects for my job at the Pittsburgh Cultural Trust. I do a lot of work in e-commerce, but I'm trying to get a handle on infrastructure as well.
 
 - 🌱 I’m currently learning ...
   - 💎 the Crystal language
