@@ -13,7 +13,6 @@ My personal stack includes Ruby💎, Ruby on Rails🚆, JavaScript, React⚛, Re
   
   
 - 📫 How to reach me:
-  - 🐤 twitter: @crankarmcraig twitter.com/CrankarmCraig
   - 💻 Dev.to: crankums dev.to/crankums
   - 💼 LinkedIn: linkedin.com/in/craig-donavin
   
